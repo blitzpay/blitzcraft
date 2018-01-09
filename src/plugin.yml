@@ -1,0 +1,12 @@
+main: blitzpay.blitzcraft.Main
+name: BlitzCraft
+version: 1.0
+author: blitzpay
+description: Lightning Network for Minecraft
+commands:
+  mycommand:
+    description: An example command
+    usage: /mycommand
+    permission: myplugin.mycommand
+    permission-message: You don't have the myplugin.mycommand permission.
+
